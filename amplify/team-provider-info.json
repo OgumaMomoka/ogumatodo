@@ -1,0 +1,28 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-ogumatodo-dev-73804-authRole",
+      "UnauthRoleArn": "arn:aws:iam::173511734765:role/amplify-ogumatodo-dev-73804-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::173511734765:role/amplify-ogumatodo-dev-73804-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-ogumatodo-dev-73804-deployment",
+      "UnauthRoleName": "amplify-ogumatodo-dev-73804-unauthRole",
+      "StackName": "amplify-ogumatodo-dev-73804",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:173511734765:stack/amplify-ogumatodo-dev-73804/7ba6f7a0-5208-11ee-8cee-0a8726753de9",
+      "AmplifyAppId": "d2c9c92m5h64gl"
+    }
+  },
+  "test": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-ogumatodo-test-80226-authRole",
+      "UnauthRoleArn": "arn:aws:iam::173511734765:role/amplify-ogumatodo-test-80226-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::173511734765:role/amplify-ogumatodo-test-80226-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-ogumatodo-test-80226-deployment",
+      "UnauthRoleName": "amplify-ogumatodo-test-80226-unauthRole",
+      "StackName": "amplify-ogumatodo-test-80226",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:173511734765:stack/amplify-ogumatodo-test-80226/e223f7f0-520b-11ee-a389-0e642bb18b65",
+      "AmplifyAppId": "d2c9c92m5h64gl"
+    }
+  }
+}
