@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          LEARN REACT
+          テスト用メッセージ
         </a>
       </header>
     </div>
